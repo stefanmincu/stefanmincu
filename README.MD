@@ -3,7 +3,7 @@
 </p>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=stefanmincu&label=Profile%20views&color=green&style=for-the-badge&abbreviated=true" alt="Profile Views Badge"/>
+  <img src="https://profile-counter.glitch.me/stefanmincu/count.svg?" alt="Profile Views Badge"/>
 </p>
 
 ---
